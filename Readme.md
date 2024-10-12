@@ -14,6 +14,7 @@
 
 ## Use these Steps only if new files are there or the results needs to be reproduced. 
 If results need not be reproduced then directly run the docker file
+Ensure that the documents are structured, including headings/subheadings etc.
 
 ### Create a Conda Environment
 
