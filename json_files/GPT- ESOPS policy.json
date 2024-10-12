@@ -1,0 +1,158 @@
+{
+    "document": [
+        {
+            "text_value": "This policy outlines the guidelines and procedures for granting and managing employee stock options at Simpplr. The purpose is to provide employees with an additional incentive and reward for their loyalty, commitment, and contribution towards the growth and success of the organization.",
+            "previous_headings": [
+                "Employee Stock Options Policy",
+                "1. Introduction",
+                "1.1 Purpose"
+            ],
+            "text_page": 1,
+            "path": "Employee Stock Options Policy | 1. Introduction | 1.1 Purpose"
+        },
+        {
+            "text_value": "This policy applies to all full-time employees of Simpplr who meet the eligibility criteria and are selected to participate in the employee stock option program.",
+            "previous_headings": [
+                "Employee Stock Options Policy",
+                "1. Introduction",
+                "1.1 Purpose",
+                "1.2 Scope"
+            ],
+            "text_page": 1,
+            "path": "Employee Stock Options Policy | 1. Introduction | 1.2 Scope"
+        },
+        {
+            "text_value": "Employees who have completed a minimum of one year of continuous service with Simpplr and are in good standing are eligible to participate in the employee stock option program.",
+            "previous_headings": [
+                "1.1 Purpose",
+                "1.2 Scope",
+                "2. Eligibility",
+                "2.1 Criteria"
+            ],
+            "text_page": 1,
+            "path": "Employee Stock Options Policy | 2. Eligibility | 2.1 Criteria"
+        },
+        {
+            "text_value": "Participation in the employee stock option program is voluntary, and eligible employees must indicate their interest within a specified deadline communicated by the Human Resources department.",
+            "previous_headings": [
+                "1.2 Scope",
+                "2. Eligibility",
+                "2.1 Criteria",
+                "2.2 Participation"
+            ],
+            "text_page": 1,
+            "path": "Employee Stock Options Policy | 2. Eligibility | 2.2 Participation"
+        },
+        {
+            "text_value": "The granting of stock options will be based on various factors such as employee performance, contribution to the company's objectives, and potential for future success. The grant of stock options will be approved by the executive management team and the Board of Directors.",
+            "previous_headings": [
+                "2.1 Criteria",
+                "2.2 Participation",
+                "3. Stock Option Granting",
+                "3.1 Granting Process"
+            ],
+            "text_page": 1,
+            "path": "Employee Stock Options Policy | 3. Stock Option Granting | 3.1 Granting Process"
+        },
+        {
+            "text_value": "Stock options may be granted on an annual basis, during a specific time period, or as determined by the company's discretion. The specific number of options and the terms of each grant will be communicated to eligible employees at the time of the grant.",
+            "previous_headings": [
+                "2.2 Participation",
+                "3. Stock Option Granting",
+                "3.1 Granting Process",
+                "3.2 Grant Schedule"
+            ],
+            "text_page": 1,
+            "path": "Employee Stock Options Policy | 3. Stock Option Granting | 3.2 Grant Schedule"
+        },
+        {
+            "text_value": "Stock options will be subject to a vesting schedule to promote long-term tenure and engagement. The vesting period will be determined at the time of grant and will follow the guidelines set by the company. Vesting schedules will typically range from three to five years, with a gradual vesting of options over the defined period.",
+            "previous_headings": [
+                "3.1 Granting Process",
+                "3.2 Grant Schedule",
+                "3.3 Vesting Schedule",
+                "Stock Options"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 3. Stock Option Granting | 3.3 Vesting Schedule"
+        },
+        {
+            "text_value": "The exercise price of stock options will be set based on the fair market value of the company's stock on the date of grant, as determined by an independent appraiser or as per legal requirements.",
+            "previous_headings": [
+                "3.3 Vesting Schedule",
+                "Stock Options",
+                "4. Stock Option Exercise",
+                "4.1 Exercise Price"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 4. Stock Option Exercise | 4.1 Exercise Price"
+        },
+        {
+            "text_value": "Employees may exercise their vested stock options within a specified exercise window, which will be communicated at the time of the grant. The exercise window will typically be within a specific time frame following the employee's termination or retirement, to allow for a smooth transition and avoid market manipulation.",
+            "previous_headings": [
+                "Stock Options",
+                "4. Stock Option Exercise",
+                "4.1 Exercise Price",
+                "4.2 Exercise Window"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 4. Stock Option Exercise | 4.2 Exercise Window"
+        },
+        {
+            "text_value": "Upon exercise, employees will be required to pay the exercise price for each stock option exercised. Appropriate tax withholding will be applied as per applicable legal requirements. Employees are responsible for any tax obligations resulting from the exercise of stock options.",
+            "previous_headings": [
+                "4. Stock Option Exercise",
+                "4.1 Exercise Price",
+                "4.2 Exercise Window",
+                "4.3 Payment and Tax Obligations"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 4. Stock Option Exercise | 4.3 Payment and Tax Obligations"
+        },
+        {
+            "text_value": "In the event of termination, stock options that have not yet vested will be forfeited, unless otherwise specified in the grant agreement or governed by legal requirements.",
+            "previous_headings": [
+                "4.2 Exercise Window",
+                "4.3 Payment and Tax Obligations",
+                "5. Stock Option Termination",
+                "5.1 Termination Impact"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 5. Stock Option Termination | 5.1 Termination Impact"
+        },
+        {
+            "text_value": "Upon retirement, employees may have an extended exercise period for vested options, subject to the terms and conditions as determined in the grant agreement.",
+            "previous_headings": [
+                "4.3 Payment and Tax Obligations",
+                "5. Stock Option Termination",
+                "5.1 Termination Impact",
+                "5.2 Retirement"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 5. Stock Option Termination | 5.2 Retirement"
+        },
+        {
+            "text_value": "The Human Resources department will oversee the administration of the employee stock option program, including communication, grant coordination, record-keeping, and liaising with external.",
+            "previous_headings": [
+                "5. Stock Option Termination",
+                "5.1 Termination Impact",
+                "5.2 Retirement",
+                "6. Administration"
+            ],
+            "text_page": 2,
+            "path": "Employee Stock Options Policy | 6. Administration"
+        },
+        {
+            "text_value": "This policy is not a contract of employment and does not guarantee any future grants or benefits. Simpplr reserves the right to modify, suspend, or terminate the employee stock option program or any individual grant at its sole discretion.\n\nPlease note that the above policy is a general framework and should be customized to meet the specific needs and legal requirements of Simpplr. It is recommended to consult with legal counsel or experts in employee stock options while implementing the policy.",
+            "previous_headings": [
+                "5.1 Termination Impact",
+                "5.2 Retirement",
+                "6. Administration",
+                "7. Disclaimer"
+            ],
+            "text_page": 3,
+            "path": "Employee Stock Options Policy | 7. Disclaimer"
+        }
+    ],
+    "document_name": "GPT- ESOPS policy"
+}

@@ -1,0 +1,189 @@
+{
+    "document": [
+        {
+            "text_value": "This Information Security and IT Policy document outlines the policies and guidelines that all employees, contractors, and vendors of Simpplr must adhere to in order to safeguard the organization's information assets and maintain the privacy and integrity of its IT infrastructure. The policy also addresses compliance with applicable laws and regulations pertaining to information security.",
+            "previous_headings": [
+                "Information Security and IT Policy",
+                "1. Introduction"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 1. Introduction"
+        },
+        {
+            "text_value": "This policy applies to all employees, contractors, and vendors who have access to Simpplr's information assets, including but not limited to computer systems, networks, data, and software. It covers the use of Simpplr-provided and personal devices used for business purposes, as well as any other assets or resources owned or managed by Simpplr.",
+            "previous_headings": [
+                "Information Security and IT Policy",
+                "1. Introduction",
+                "2. Scope"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 2. Scope"
+        },
+        {
+            "text_value": "The executive management team is responsible for establishing and enforcing information security policies, allocating adequate resources, and providing leadership in ensuring the effectiveness of Simpplr's information security program.",
+            "previous_headings": [
+                "1. Introduction",
+                "2. Scope",
+                "3. Responsibilities",
+                "3.1 Management Responsibilities"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 3. Responsibilities | 3.1 Management Responsibilities"
+        },
+        {
+            "text_value": "All employees are responsible for complying with this policy, protecting information assets, reporting any security incidents or vulnerabilities, and taking necessary precautions to prevent unauthorized access, disclosure, alteration, or destruction of information.",
+            "previous_headings": [
+                "2. Scope",
+                "3. Responsibilities",
+                "3.1 Management Responsibilities",
+                "3.2 Employee Responsibilities"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 3. Responsibilities | 3.2 Employee Responsibilities"
+        },
+        {
+            "text_value": "Simpplr will conduct regular risk assessments to identify and assess risks to its information assets. A risk management process will be implemented to evaluate the impact and likelihood of identified risks and develop appropriate controls and mitigation strategies.",
+            "previous_headings": [
+                "3.1 Management Responsibilities",
+                "3.2 Employee Responsibilities",
+                "4. Information Security Framework",
+                "4.1 Risk Assessment and Management"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.1 Risk Assessment and Management"
+        },
+        {
+            "text_value": "All information assets owned or managed by Simpplr must be properly classified based on their sensitivity and criticality. Appropriate security controls will be implemented based on the classification level to ensure the confidentiality, integrity, and availability of the information.",
+            "previous_headings": [
+                "3.2 Employee Responsibilities",
+                "4. Information Security Framework",
+                "4.1 Risk Assessment and Management",
+                "4.2 Information Classification"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.2 Information Classification"
+        },
+        {
+            "text_value": "Access to Simpplr's information assets will be granted based on the principle of least privilege, ensuring that employees have access only to the information necessary to perform their job.",
+            "previous_headings": [
+                "4. Information Security Framework",
+                "4.1 Risk Assessment and Management",
+                "4.2 Information Classification",
+                "4.3 Access Controls"
+            ],
+            "text_page": 1,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.3 Access Controls"
+        },
+        {
+            "text_value": "Strong authentication mechanisms and access control mechanisms will be implemented to protect sensitive information from unauthorized access.",
+            "previous_headings": [
+                "4.1 Risk Assessment and Management",
+                "4.2 Information Classification",
+                "4.3 Access Controls",
+                "4. Responsibilities"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.3 Access Controls"
+        },
+        {
+            "text_value": "Simpplr will implement appropriate technical, administrative, and physical controls to protect data from unauthorized access, disclosure, alteration, or destruction. Data encryption, secure backup procedures, and periodic audits will be conducted to ensure data protection.",
+            "previous_headings": [
+                "4.2 Information Classification",
+                "4.3 Access Controls",
+                "4. Responsibilities",
+                "4.4 Data Protection"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.4 Data Protection"
+        },
+        {
+            "text_value": "An incident response plan will be developed to handle any information security incidents effectively and minimize their impact. This plan will include procedures for reporting incidents, assessing their severity, containing the incident, investigating root causes, and implementing corrective and preventive actions.",
+            "previous_headings": [
+                "4.3 Access Controls",
+                "4. Responsibilities",
+                "4.4 Data Protection",
+                "4.5 Incident Response"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.5 Incident Response"
+        },
+        {
+            "text_value": "Simpplr will provide regular security awareness and training programs to ensure that all employees are aware of their responsibilities, understand information security best practices, and are equipped to recognize and respond to security threats.",
+            "previous_headings": [
+                "4. Responsibilities",
+                "4.4 Data Protection",
+                "4.5 Incident Response",
+                "4.6 Security Awareness and Training"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 4. Information Security Framework | 4.6 Security Awareness and Training"
+        },
+        {
+            "text_value": "Employees are expected to use Simpplr's IT resources for business purposes only. Personal use of these resources should be limited to breaks or when authorized by management.",
+            "previous_headings": [
+                "4.5 Incident Response",
+                "4.6 Security Awareness and Training",
+                "5. Acceptable Use of IT Resources",
+                "5.1 Use of Company IT Resources"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 5. Acceptable Use of IT Resources | 5.1 Use of Company IT Resources"
+        },
+        {
+            "text_value": "Employees must comply with software license agreements, use only authorized software, and refrain from unauthorized installation or distribution of software that may introduce security risks.",
+            "previous_headings": [
+                "4.6 Security Awareness and Training",
+                "5. Acceptable Use of IT Resources",
+                "5.1 Use of Company IT Resources",
+                "5.2 Software Usage"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 5. Acceptable Use of IT Resources | 5.2 Software Usage"
+        },
+        {
+            "text_value": "Simpplr's internet resources must be used responsibly and in compliance with applicable laws and regulations. Employees must avoid accessing, distributing, or transmitting inappropriate, offensive, or illegal material.",
+            "previous_headings": [
+                "5. Acceptable Use of IT Resources",
+                "5.1 Use of Company IT Resources",
+                "5.2 Software Usage",
+                "5.3 Internet Usage"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 5. Acceptable Use of IT Resources | 5.3 Internet Usage"
+        },
+        {
+            "text_value": "Non-compliance with this policy may result in disciplinary action, up to and including termination of employment or contract. Simpplr's IT department and management will be responsible for monitoring compliance, investigating violations, and enforcing the policy.",
+            "previous_headings": [
+                "5.1 Use of Company IT Resources",
+                "5.2 Software Usage",
+                "5.3 Internet Usage",
+                "6. Policy Compliance and Enforcement"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | 6. Policy Compliance and Enforcement"
+        },
+        {
+            "text_value": "The Information Security and IT Policy is essential for Simpplr to ensure the confidentiality, integrity, and availability of its information assets. Compliance with this policy is mandatory for",
+            "previous_headings": [
+                "5.2 Software Usage",
+                "5.3 Internet Usage",
+                "6. Policy Compliance and Enforcement",
+                "Conclusion"
+            ],
+            "text_page": 2,
+            "path": "Information Security and IT Policy | Conclusion"
+        },
+        {
+            "text_value": "everyone associated with the organization. It is the responsibility of every employee, contractor, and vendor to familiarize themselves with this policy and understand their role in protecting Simpplr's information assets and IT infrastructure.",
+            "previous_headings": [
+                "5.2 Software Usage",
+                "5.3 Internet Usage",
+                "6. Policy Compliance and Enforcement",
+                "Conclusion"
+            ],
+            "text_page": 3,
+            "path": "Information Security and IT Policy | Conclusion"
+        }
+    ],
+    "document_name": "GPT- Information security and IT policy."
+}

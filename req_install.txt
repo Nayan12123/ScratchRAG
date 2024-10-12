@@ -1,0 +1,10 @@
+# conda create -n pdf_qa python=3.10
+pip install llama-index-core llama-parse llama-index-readers-file python-dotenv
+pip install openai
+pip install sentence_transformers
+pip install -qU llama-index-vector-stores-elasticsearch llama-index openai
+pip install xformers
+pip install -U FlagEmbedding
+pip install peft
+pip install fastapi uvicorn
+pip install -U deepeval

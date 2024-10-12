@@ -1,0 +1,112 @@
+{
+    "document": [
+        {
+            "text_value": "Simpplr recognizes the growing need for flexibility in the workplace and understands the benefits of remote work for both employees and the organization. The Remote Work Policy outlines the provisions and guidelines for employees who wish to work remotely, either on a full-time or ad-hoc basis. This policy aims to promote a healthy work-life balance, increase productivity, and create a positive work environment for our employees.",
+            "previous_headings": [
+                "Remote Work Policy",
+                "Introduction:"
+            ],
+            "text_page": 1,
+            "path": "Remote Work Policy | Introduction:"
+        },
+        {
+            "text_value": "Simpplr is committed to providing employees with the opportunity to work remotely, subject to business needs and the nature of their roles. This policy applies to all eligible employees, regardless of their tenure or position within the organization. Remote work may be approved when it benefits both the employee and the company while maintaining the highest level of productivity and collaboration.",
+            "previous_headings": [
+                "Remote Work Policy",
+                "Introduction:",
+                "Policy Statement:"
+            ],
+            "text_page": 1,
+            "path": "Remote Work Policy | Policy Statement:"
+        },
+        {
+            "text_value": "1. Employment Eligibility:\n1. All employees who have completed at least six months of continuous employment with Simpplr are eligible to request remote work.\n2. Employees should have a proven track record of performance and the ability to work independently.\n2. Role Suitability:\n1. Employees must perform roles that can be effectively fulfilled remotely without negatively impacting productivity, collaboration, or customer service.\n2. Certain roles or positions may require on-site presence due to business needs or operational requirements.",
+            "previous_headings": [
+                "Remote Work Policy",
+                "Introduction:",
+                "Policy Statement:",
+                "Eligibility for Remote Work:"
+            ],
+            "text_page": 1,
+            "path": "Remote Work Policy | Eligibility for Remote Work:"
+        },
+        {
+            "text_value": "1. Full-Time Remote Work:\n1. Employees may request to work remotely on a full-time basis, subject to approval by their supervisor and the Human Resources department.\n2. Full-time remote work arrangements should be reviewed annually to assess their continued feasibility and the alignment of organizational goals.\n2. Ad-Hoc Remote Work:\n1. Employees may request occasional ad-hoc remote work on a case-by-case basis.\n2. Ad-hoc remote work should be reasonable in duration, frequency, and should not exceed the pre-defined limits set by the organization.",
+            "previous_headings": [
+                "Introduction:",
+                "Policy Statement:",
+                "Eligibility for Remote Work:",
+                "Remote Work Arrangements:"
+            ],
+            "text_page": 1,
+            "path": "Remote Work Policy | Remote Work Arrangements:"
+        },
+        {
+            "text_value": "1. Performance Expectations:",
+            "previous_headings": [
+                "Policy Statement:",
+                "Eligibility for Remote Work:",
+                "Remote Work Arrangements:",
+                "Remote Work Guidelines:"
+            ],
+            "text_page": 1,
+            "path": "Remote Work Policy | Remote Work Guidelines:"
+        },
+        {
+            "text_value": "a. Remote employees are required to meet the same performance standards and expectations as on-site employees.\n\nb. Regular communication and collaboration with colleagues and supervisors are essential for remote employees to ensure productivity and engagement.",
+            "previous_headings": [
+                "Remote Work Arrangements:",
+                "Remote Work Guidelines:",
+                "Remote Work Policy |ID:2",
+                "1. Performance Standards"
+            ],
+            "text_page": 2,
+            "path": "Remote Work Policy | Remote Work Guidelines: | 1. Performance Standards"
+        },
+        {
+            "text_value": "a. Remote employees must be accessible during regular business hours.\n\nb. Employees must have reliable internet access, suitable technology equipment, and maintain a professional work environment.",
+            "previous_headings": [
+                "Remote Work Guidelines:",
+                "Remote Work Policy |ID:2",
+                "1. Performance Standards",
+                "2. Availability and Accessibility"
+            ],
+            "text_page": 2,
+            "path": "Remote Work Policy | Remote Work Guidelines: | 2. Availability and Accessibility"
+        },
+        {
+            "text_value": "a. Remote employees should maintain a regular work schedule that aligns with their team and the organization.\n\nb. Accurate timekeeping and adherence to break and lunch schedules are necessary.",
+            "previous_headings": [
+                "Remote Work Policy |ID:2",
+                "1. Performance Standards",
+                "2. Availability and Accessibility",
+                "3. Work Schedule and Timekeeping"
+            ],
+            "text_page": 2,
+            "path": "Remote Work Policy | Remote Work Guidelines: | 3. Work Schedule and Timekeeping"
+        },
+        {
+            "text_value": "a. Remote employees must adhere to Simpplr's confidentiality and data security policies.\n\nb. Employees should safeguard company information, data, and intellectual property by following established security protocols.",
+            "previous_headings": [
+                "1. Performance Standards",
+                "2. Availability and Accessibility",
+                "3. Work Schedule and Timekeeping",
+                "4. Confidentiality and Data Security"
+            ],
+            "text_page": 2,
+            "path": "Remote Work Policy | Remote Work Guidelines: | 4. Confidentiality and Data Security"
+        },
+        {
+            "text_value": "The Remote Work Policy at Simpplr aims to provide employees with the opportunity to work remotely, where feasible and business needs allow. By embracing remote work, we strive to create a flexible work environment that enhances work-life balance, promotes productivity, and fosters a positive employee experience. This policy outlines the eligibility criteria, guidelines, and expectations for remote work arrangements. Simpplr encourages open communication and collaboration to maintain effective remote work practices.",
+            "previous_headings": [
+                "2. Availability and Accessibility",
+                "3. Work Schedule and Timekeeping",
+                "4. Confidentiality and Data Security",
+                "Conclusion"
+            ],
+            "text_page": 2,
+            "path": "Remote Work Policy | Conclusion"
+        }
+    ],
+    "document_name": "GPT- Remote Work Policy"
+}
